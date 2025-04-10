@@ -32,13 +32,11 @@ Week of 14. April:
 -	Start learning basic functions. (Player movements and basic functions)
 -	Start building enemy functions and objects functions. This will include some interactable behaviors between objects and player. 
 
-
-
-
 Week of 21. April: 
 -	Continue last week work
 -	Add basic UI, health bar for enemy, basic information displays.
 -	Try to add some abilities to the player such as Dash, Throw bomb, Defend. 
+
 Week of 28. April:
 -	(At this time, basic functions mostly done)
 -	Debug!!!!!!!!
