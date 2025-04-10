@@ -1,5 +1,5 @@
 ## Documentation:
-## Title: 
+Title: 
 Fantasy Dungeon by Unity-3D (Game)
 
 3 resources:
