@@ -2,27 +2,27 @@
 Title: 
 Fantasy Dungeon by Unity-3D (Game)
 
-#### 3 resources:
+### 3 resources:
 Github copilot – as a helping tool
 Learning resources in Youtube for 3D game editor basics
 General Assests
 
-#### A paragraph:
+### A paragraph:
 This game is based on Unity editor 6 – Universal 3D (URP). This will be a gun shotting game. The player might have multiple abilities that can affect the game. The main art concept haven’t defined yet. All the functions operated by Unity and I will write the script for each layer.
 
-#### Project overlap:
+### Project overlap:
 No. However, I am mainly focus on sound design for game and I am taking MTEC-321 with Prof. Spencer Bambrick next semester. I guess this project would be help in the future.
 
-#### Accomplishment no matter what:
+### Accomplishment no matter what:
 The game basic function will work fine. For example, functioning player/enemy movement, gun shot function set, damage system, health system, basic scene. 
 
-#### Accomplishment with better outcome:
+### Accomplishment with better outcome:
 Extension functions for players abilities.
 
-#### Accomplishment with best outcome:
+### Accomplishment with best outcome:
 Wonderful art concept, no bugs for physical system and models. Player won’t run out of the map. (Hope)
 
-#### Calendar:
+### Calendar:
 This week(7. April): 
 -	Watching videos and learn Unity-3D basics(Objects, Player, script writing, basic functions)
 
